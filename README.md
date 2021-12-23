@@ -1,5 +1,4 @@
 # Selective_Repeat
-컴퓨터 네트워크 텀프로젝트<br>
 UDP socket을 이용한 selective repeat protocol 구현<br>
 
 ## Sequence Diagram
